@@ -1,0 +1,14 @@
+.banner {
+  color: white;
+  background-size: cover;
+  background-position: center;
+  padding: 150px;
+}
+
+.green-button {
+  color: white;
+  background-color: rgb(94, 234, 150);
+  padding: 8px 16px;
+  border-radius: 25px;
+  font-weight: bold;
+}
